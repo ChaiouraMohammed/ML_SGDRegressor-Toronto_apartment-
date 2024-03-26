@@ -26,6 +26,7 @@ from sklearn.metrics import *
 - Lat - Lattitude
 - Long - Longitude
 - Price - Apartment Rental price per month in CAD
+- Dataset Link : https://www.kaggle.com/datasets/rajacsp/toronto-apartment-price
 
   ![image](https://github.com/ChaiouraMohammed/ML_SGDRegressor-Toronto_apartment-/assets/91562298/40733899-448d-46a6-a8dc-311cfe424f2b)
 
